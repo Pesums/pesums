@@ -324,7 +324,7 @@ fontWeight: FontWeight.bold),
 Container(
 padding: EdgeInsets.all(22),
 child: Text(
-'Or send us an email at: jamesthompson6.0x@gmail.com.\nIf possible please take a screenshot when the problem occurred and attach the screenshot to your email.',
+'Or send us an email at: contact.pesums@gmail.com\nIf possible please take a screenshot when the problem occurred and attach the screenshot to your email.',
 style: TextStyle(
 color: Color.fromARGB(255, 56, 56, 56),
 fontSize: 13,
