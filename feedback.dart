@@ -2,7 +2,7 @@ import 'dart:io';
 
 import 'package:flutter/material.dart';
 import 'package:flutter_svg/svg.dart';
-import 'package:pesumsdownloads/feedback/user_feedback.dart';
+import 'package:pesumsbrowser/feedback/feedback.dart';
 
 class UserFeedback extends StatefulWidget {
 const UserFeedback({super.key});
